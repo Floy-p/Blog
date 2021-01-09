@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Hei! U Come Here at last'
-subtitle: 'In There ,U Just Do What U Wanna Do'
-date: 2019-05-03
-categories: 技术 hobby
-cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556893829823&di=92daab384b502a55a686718dca46c269&imgtype=0&src=http%3A%2F%2Fup.iosdesk.com%2Fpic_source%2Fe6%2F8f%2Feb%2Fe68febebd32f4d3a9aef26860578583c.jpg'
-tags: 数据分析 摄影 python M语言
+title: 'the-alone-maple s Blog'
+subtitle: 'Welcome to here,welcome to this great world !'
+date: 2017-04-18
+categories: 技术
+cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556892398559&di=269e87b02b29fa2e9c9d854af0f0f8b9&imgtype=0&src=http%3A%2F%2Fup.iosdesk.com%2Fpic_source%2F56%2Fcf%2Fcb%2F56cfcb08f076cc65c94402506a2bd277.jpg'
+tags: jekyll 移动开发 Android开发 Java开发
 ---
 
 正如我在[微博](http://weibo.com/1374146504/profile?topnav=1&wvr=6)上所说的，使用[Jekyll](http://jekyll.com.cn/)半年以来一直没有令我满意的主题模板，所以开始计划自己写一套好看又好用的主题模板。设计之初就明确了极简主义，风格采用扁平化了，通过卡片式设计来进行区块分明的布局，参考了Medium的ui样式和知乎专栏的视觉风格。

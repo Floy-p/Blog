@@ -1,11 +1,11 @@
 # Site settings 配置站点
-title: 'Floyp Blog'
-description: 'In There,Just Do What U Want To Do , Welcome!'
-keyword: 'floy, 付小萍的独立博客, 数据分析、摄影、心理学...'
-url: 'https://floyp.github.io/' # your host
+title: 'the-alone-maple s Blog'
+description: 'Welcome to here,welcome to this great world !'
+keyword: 'maple, maple的独立博客, maple的博客, 移动开发, Android开发, 前端博客, Java, Kotlin, 设计'
+url: 'https://the-alone-maple.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
-baseurl: ''
+#baseurl: ''
 
 # Navigation links
 nav:
@@ -14,12 +14,12 @@ nav:
 
 # Footer
 footer:
-  since: 2019
+  since: 2017
 
 # Author 配置博主信息
-author: 'floy'
-nickname: '龙马'
-bio: '数据搬运工，热爱技术&设计，简单乐观爱创造'
+author: 'the-alone-maple'
+nickname: 'the-alone-maple'
+bio: 'empty'
 avatar: '/assets/img/profile.jpg'
 
 # Search
